@@ -1,0 +1,36 @@
+[DebugChecksum]
+Checksum=2059015894
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "E:\cc2530-64位系统的使用说明书\协议栈实验\终端发送字符串--协调器--通过串口给电脑串口助手显示\ZStack-CC2530-2.5.1a\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A1=_ "E:\cc2530模块资料-2014-5-1\3.无线通信实验\5，终端发送字符串--协调器--通过串口给电脑串口助手显示\ZStack-CC2530-2.5.1a\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=2
+SuppressDialog=1
